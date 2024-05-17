@@ -1,0 +1,2 @@
+module inclass.example.genericBST {
+}
